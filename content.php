@@ -1,4 +1,4 @@
-<?php sleep(1); ?>
+<?php sleep(5); ?>
 
 <div id="home">
     <h2>Welcome!</h2>
