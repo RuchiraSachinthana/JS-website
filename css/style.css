@@ -36,12 +36,12 @@ nav ul li a{
 }
 
 nav ul li a.active{
-   border-bottom: 2px solid rgb(175, 99, 0);
-    color: rgb(175, 99, 0);
+   border-bottom: 2px solid rgb(218, 7, 25);
+    color: rgb(247, 22, 41);
 }
 
 nav ul li a:hover{
-    color: red;
+    color: rgb(252, 58, 58);
 }
 
 main p{
