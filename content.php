@@ -16,7 +16,7 @@
         Magni atque doloremque provident eos dolores laboriosam necessitatibus perspiciatis! Saepe asperiores ab deserunt reiciendis accusamus dolorem magni, perferendis architecto adipisci nisi. Praesentium perspiciatis facere laborum. Quas veritatis facilis molestias consectetur.
         Ipsam veritatis ea consequuntur laborum cum! Aperiam cum atque suscipit minus fuga. Dolor reiciendis sit optio soluta pariatur dolorem praesentium voluptates ad omnis voluptatum a excepturi, asperiores cupiditate vel voluptas?</p>
        
-  
+</div>
 
 <div id="about">
     <h2>About Us</h2>
