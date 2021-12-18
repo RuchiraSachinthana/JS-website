@@ -11,7 +11,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>Company Name</h1>
+            <h1>RUCHIRA SACHINTHANA</h1>
     </header>
     <nav>
         <ul>
@@ -27,7 +27,7 @@
         </div>
     </main>
     <footer>
-        <p>&copy; Company Name</p>
+        <p>&copy; | </p>
     </footer>
     </div>
 
