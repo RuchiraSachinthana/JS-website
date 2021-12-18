@@ -27,7 +27,7 @@
         </div>
     </main>
     <footer>
-        <p>&copy; | </p>
+        <p>&copy;<a href="https://ruchiras.com" target="_blank">RUCHIRA</a> </p>
     </footer>
     </div>
 
